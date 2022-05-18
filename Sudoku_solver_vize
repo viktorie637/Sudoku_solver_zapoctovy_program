@@ -1,0 +1,20 @@
+Studentka: Viktorie Pavelková (skupina čtvrtek 12:20)
+Téma zápočtového programu: SUDOKU SOLVER
+
+Má vize je taková, že by se mělo jednat o sudoku solver různých rozměrů (2x2, 3x3, 4x4)
+a obtížností sudoku (lehké, středně těžké, těžké).
+
+Také jste chtěl přidanou hodnotu minimálně v podobě dobrého uživatelského rozhraní (dle
+vašich slov nemusí být nutně grafické, ale může být třeba pomocí textualize/Rich (textualize.io),
+anebo dobrý algoritmus založený na Exact cover). U tohoto kroku bych to viděla na to, jak to půjde
+v průběhu, docela se mi zamlouvá způsob textualize. Každopádně jako přidanou hodnotu bych asi
+chtěla vytvořit něco na principu toho, že neproběhne pouze vyřešení daného sudoku, ale výsledek se nejdřív 
+uloží pouze do paměti a mezitím se hráč pokusí o vyřešení stejného sudoku bez nápověd. Následně by mělo
+dojít ke srávnání správného výsledku (pokud je sudoku řešitelné) získané programem s výsledkem hráče, 
+kdy pokud jsou jednotlivé doplněné čísla správně, tak na určitý čas zezelenají a následně zčernají, 
+naopak při chybném čísle na určitý čas zčervenají a následně zmizí a uživatel může pokračovat ve hře.
+
+Algoritmus bude rekurzivní - minimálně co se týče samotného řešení, následně si budeme muset 
+výsledek pamatovat a do další paměti ukládat "tahy" hráče.
+Použité knihovny budou na načítání různých typů sudoku.
+Způsob distribuce bude tady přes GitHub.
