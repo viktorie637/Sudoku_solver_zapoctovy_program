@@ -18,3 +18,16 @@ Algoritmus bude rekurzivní - minimálně co se týče samotného řešení, ná
 výsledek pamatovat a do další paměti ukládat "tahy" hráče.
 Použité knihovny budou na načítání různých typů sudoku.
 Způsob distribuce bude tady přes GitHub.
+
+
+
+
+AKTUALIZACE:
+Dle vašich rad - při pomenutí šlo o:
+    1. Generátor Sudoku. Něco, co by nejen dokázalo naplňovat tabulku, dokud by nezbylo jediné řešení,
+    ale také dokázalo posoudit náročnost řešení pro (manuálního) řešitele
+    2. Pomůcka pro řešitele: Pencil marks, podle možnosti různobarevné, nápověda, vyznačení polí, kterých 
+    hodnotu lze určit nebo které jsou naopak velice těžko určitelné.
+jsem se rozhodla pozměnit téma spíše k tomu generátoru sudoku. Uvidím, jak mi půjde práce od ruky a až 
+případně později bych téma opět rozšířila a snažila se o co nejkomplexnější výstup s co nejvíce funkcemi 
+a možnostmi i pro samotného řešitele:)
