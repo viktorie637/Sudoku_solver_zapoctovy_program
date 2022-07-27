@@ -23,7 +23,7 @@ Způsob distribuce bude tady přes GitHub.
 
 
 AKTUALIZACE:
-Dle vašich rad - při pomenutí šlo o:
+Dle vašich rad - pro pomenutí šlo o:
     1. Generátor Sudoku. Něco, co by nejen dokázalo naplňovat tabulku, dokud by nezbylo jediné řešení,
     ale také dokázalo posoudit náročnost řešení pro (manuálního) řešitele
     2. Pomůcka pro řešitele: Pencil marks, podle možnosti různobarevné, nápověda, vyznačení polí, kterých 
