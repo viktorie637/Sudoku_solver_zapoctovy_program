@@ -31,3 +31,15 @@ Dle vašich rad - pro pomenutí šlo o:
 jsem se rozhodla pozměnit téma spíše k tomu generátoru sudoku. Uvidím, jak mi půjde práce od ruky a až 
 případně později bych téma opět rozšířila a snažila se o co nejkomplexnější výstup s co nejvíce funkcemi 
 a možnostmi i pro samotného řešitele:)
+
+
+
+
+AKTUALIZACE 31.8.2022:
+Na email jsem Vám odeslala lehký nástřel programu, směr, jakým bych se chtěla ubírat. Dané soubory najdete i 
+zde v repozitáři. Jak jsem Vám psala již zmiňovaném emailu, tak momentálně se učím na opravnou zkoušku z jiného 
+předmětu, tudíž se věnuji především tomu a zápočtový program dodělám až následně. Momentálně jsem se snažila 
+zaměřit se především na to, jak která rozšíření pro python fungují a také na vizuální podobu - formu výstupu. 
+Jak můžete vidět, mám jeden kód, který otevře samostatné okno a je s rozšířením pygame. V druhém souboru se 
+nachází generátor sudoku a částečně implementované textualize/rich. Každopádně nyní se potýkám s komplikací, 
+jak dané soubory "spojit". Budu ráda za jakékoli rady. Děkuji, mějte pěkný den:)
