@@ -13,4 +13,8 @@ Poslední 3 připomínky od Vás:
   3. vyložte svůj kód do GitHub repozitáře a vytvořte krátký soubor README.md s dokumentací: co program dělá, jak se instaluje, jak se používá
       -> níže
 
-Uživatel ke spuštění programu potřebuje python s rozšířením tkinter a pygame. Následně si doinstaluje přes vložení do terminálu následující: "pip install pillow", "pip install reguests".
+Uživatel si kód stáhne tady v repozitáři GitHub. Ke spuštění potřebuje python
+
+
+
+s rozšířením tkinter a pygame. Následně si doinstaluje přes vložení do terminálu následující: "pip install pillow", "pip install reguests".
