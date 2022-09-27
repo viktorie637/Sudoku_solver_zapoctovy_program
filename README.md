@@ -10,7 +10,7 @@ Poslední 3 připomínky od Vás:
       -> nyní je použit normální programovací editor s kódováním utf-8
   2. dolaďte zbytek uživatelského rozhraní
       -> provedeno
-  3. vyložte svůj kód do GitHub repozitáře a vytvořte krátký soubor README.md s dokumentací: co program dělá, jak se instaluje, jak se používá.
+  3. vyložte svůj kód do GitHub repozitáře a vytvořte krátký soubor README.md s dokumentací: co program dělá, jak se instaluje, jak se používá
       -> níže
 
 Uživatel ke spuštění programu potřebuje python s rozšířením tkinter a pygame. Následně si doinstaluje přes vložení do terminálu následující: "pip install pillow", "pip install reguests".
