@@ -13,7 +13,7 @@ Poslední 3 připomínky od Vás:
   3. vyložte svůj kód do GitHub repozitáře a vytvořte krátký soubor README.md s dokumentací: co program dělá, jak se instaluje, jak se používá
       -> níže
 
-Program je generátor sudoku. Dle přání uživatele vygeneruje vyplněné sudoku o rozměrech 2x2 až 6x6. Následně je uživatel tázán, zda si přeje z vygenerovaného sudoku vytvořit sudoku s vynechanými čísly o náročnosti lehká, střední nebo těžká.
+Program je generátor sudoku. Dle přání uživatele vygeneruje vyplněné sudoku o rozměrech 2x2 až 6x6. Následně je uživatel tázán, zda si přeje z vygenerovaného sudoku vytvořit sudoku s vynechanými čísly - s náročnostmi pro řešení sudoku lehká, střední nebo těžká.
 
 Uživatel si kód stáhne tady v repozitáři GitHub. Ke spuštění potřebuje programovací editor pro jazyk python a následně instaluje rozšíření knihovny Rich (do terminálu zadá "pip install rich"). Spustí program a k dalším krokům je již programem naváděn.
 
