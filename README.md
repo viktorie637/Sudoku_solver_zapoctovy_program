@@ -2,6 +2,7 @@
 Tento repozitář obsahuje soubory a informace k zápočtovému programu v prvním ročníku na MFF s tématem GENERÁTOR SUDOKU. Dále je to způsob distribuce kódu.
 
 Studentka: Viktorie Pavelková (skupina čtvrtek 12:20)
+
 Téma zápočtového programu: GENERÁTOR SUDOKU
 
 Poslední 3 připomínky od Vás:
